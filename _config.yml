@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Tae Eun Kim
-title: Senior Network System Administrator?
+title: Student
 email: taeeun.kim@kaist.ac.kr
 # website: www.github.com/sproogen/resume-theme
 
@@ -46,7 +46,7 @@ github_username:  goodtaeeun
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: https://user-images.githubusercontent.com/57384091/128380057-819fce5e-b534-4648-ae7a-b4fd04d546c0.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Tae Eun. I'm currently pursuing my Master's degree in computer science. Learning new things and sharing them is my greatest pleasure! I think research is taking a step further, which is to make/discover new knowledge for the sake of everyone who will benefit from it.
 
