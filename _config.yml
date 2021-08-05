@@ -9,7 +9,7 @@ version: 2
 name: Tae Eun Kim
 title: Senior Network System Administrator?
 email: taeeun.kim@kaist.ac.kr
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -30,10 +30,10 @@ github_username:  goodtaeeun
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -79,7 +79,7 @@ content:
         title: Intelligent Software Engineering Lab
         link: isel.lifove.com
         # link_text: boringcompany.com
-        sub_title: Undergraduate Research Intern
+        sub_title: Undergrad. Research Intern
         caption: November 2019 - June 2021
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -100,11 +100,11 @@ content:
 
           I spent a lot of my free time in club activities, which were [acapella club](https://www.youtube.com/channel/UCG3D08O95Wc9cvRap5FKhSg) and judo club.
       - layout: left
-        title: KAIST - Korea Advanced Institute of Science and Technology
+        title: KAIST
         caption: 2021 fall - now
         sub_title: Master's Student
         quote: >
-          KAIST
+          KAIST - Korea Advanced Institute of Science and Technology
         description: | # this will include new lines to allow paragraphs
           I am a member of [ProsysLab](https://prosys.kaist.ac.kr/). I have just started my study, my research, my life here at KAIST. I look forward to the wonderful opportunities and people I will encounter during my time here.
 
