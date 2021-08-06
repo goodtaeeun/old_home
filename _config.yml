@@ -76,29 +76,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Intelligent Software Engineering Lab
+        title: ISEL
         link: isel.lifove.com
         # link_text: boringcompany.com
         sub_title: Undergrad. Research Intern
         caption: November 2019 - June 2021
         quote: >
-          Tipping a toe in the ocean of resesarch.
+          Intelligent Software Engineering Lab - Tipping a toe in the ocean of resesarch.
         description: | # this will include new lines to allow paragraphs
-            I had a chance to work on a research project as a memeber of ISEL.
+            I had a chance to work on a research project as a memeber of ISEL. In ISEL, I learned the most basic skills for research, such as searching for a literature I need, reading it, and understanding it.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Handong University
-        caption: 2014 - 2021
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1995, Handong is a very good university.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harndong I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time in club activities, which were [acapella club](https://www.youtube.com/channel/UCG3D08O95Wc9cvRap5FKhSg) and judo club.
       - layout: left
         title: KAIST
         caption: 2021 fall - now
@@ -108,12 +98,24 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am a member of [ProsysLab](https://prosys.kaist.ac.kr/). I have just started my study, my research, my life here at KAIST. I look forward to the wonderful opportunities and people I will encounter during my time here.
 
+      - layout: left
+        title: Handong University
+        caption: 2014 - 2021
+        sub_title: BSc Computer Science
+        quote: >
+          Located in Pohang city, South Korea, Handong is a where I discovered the joy of learning.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Handong I studied not only computer science but counseling psychology too. This helped me have an understanding of both computers and humans. Understanding both the program and the person that writes/uses/fixes it will help to have a wider viewpoint. I also had a chance to co-work with various people, including team projects, research projects, and school events. This gave me experience with working efficiently with other people to achieve a common goal.
+
+          I spent a lot of my free time in club activities, which were [acapella club](https://www.youtube.com/channel/UCG3D08O95Wc9cvRap5FKhSg) and judo club.
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - [Singing](https://youtu.be/TwUuTr97Pvw)
       - Judo
+      - Reading Novels
       - Watching Movies
 
 #      Look at this cool image  
