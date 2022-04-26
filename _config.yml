@@ -50,16 +50,22 @@ about_profile_image: https://user-images.githubusercontent.com/57384091/12838005
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Tae Eun. I'm currently pursuing my Master's degree in computer science. Learning new things and sharing them is my greatest pleasure! I think research is taking a step further, which is to make/discover new knowledge for the sake of everyone who will benefit from it.
 
-  I am interested in : <mark>Software Engineering</mark> and <mark>Automatic Program Repair</mark>
+  My Interests are :  <mark>Program Analysis</mark>,  <mark>Fuzzing</mark>, <mark>Automatic Program Repair</mark> and  <mark>Fault Localization</mark> 
 
 content:
+  - title: Publications
+    layout: list
+	content:
+      - layout: top-middle
+        title: Comming Soon....
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: ConFixPlus - Automatic Program Repair tool
         link: http://203.252.112.24/
-        link_text: Project web demo page
+        link_text: Project web demo page (Sadly, not working for now)
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
         #     icon: fab fa-github
@@ -96,7 +102,7 @@ content:
         quote: >
           KAIST - Korea Advanced Institute of Science and Technology
         description: | # this will include new lines to allow paragraphs
-          I am a member of [ProsysLab](https://prosys.kaist.ac.kr/). I have just started my study, my research, my life here at KAIST. I look forward to the wonderful opportunities and people I will encounter during my time here.
+          I am a member of [ProsysLab](https://prosys.kaist.ac.kr/). With my advisor, prof. Heo, and my team here, I am doing interesting things that lies in the intersection of Program Analysis, Fuzzing and Automated Program Repair.
 
       - layout: left
         title: Handong University
