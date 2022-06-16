@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Tae Eun Kim
-# title: Researcher
+title: Researcher
 email: taeeun.kim@kaist.ac.kr
 # website: www.github.com/sproogen/resume-theme
 
@@ -115,14 +115,14 @@ content:
 
           I spent a lot of my free time in club activities, which were [acapella club](https://www.youtube.com/channel/UCG3D08O95Wc9cvRap5FKhSg) and judo club.
 
- - title: Writings
+  - title: Writings
     layout: text
     content: | # this will include new lines to allow paragraphs
       I like writing my thoughts. I am archiving my writings in a [github repo](https://github.com/goodtaeeun/Writing).
       They are mostly on academic topics, my thoughts on research and so on.
       Please, pay a visit and leave some comments in the issue board if you also have some thoughts to share.
  
- - title: A Little More About Me
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
