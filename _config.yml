@@ -133,7 +133,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: STAAR Workshop Milestone Research Report
+        title: STAAR Workshop
         caption: 2022 Summer
         sub_title: Efficient Directed Fuzzing via Dataflow Analysis
         description: | # this will include new lines to allow paragraphs
