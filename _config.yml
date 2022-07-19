@@ -53,6 +53,30 @@ about_content: | # this will include new lines to allow paragraphs
   My Interests are :  <mark>Program Analysis</mark>,  <mark>Fuzzing</mark>, <mark>Automatic Program Repair</mark> and  <mark>Fault Localization</mark> 
 
 content:
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: KAIST
+        caption: 2021 fall - now
+        sub_title: Master's Student
+        quote: >
+          KAIST - Korea Advanced Institute of Science and Technology
+        description: | # this will include new lines to allow paragraphs
+          I am a member of [ProsysLab](https://prosys.kaist.ac.kr/). With my advisor, prof. Heo, and my team here, I am doing interesting things that lies in the intersection of Program Analysis, Fuzzing and Automated Program Repair.
+
+      - layout: left
+        title: Handong University
+        caption: 2014 - 2021
+        sub_title: BSc Computer Science
+        quote: >
+          Located in Pohang city, South Korea, Handong is a where I discovered the joy of learning.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Handong I studied not only computer science but counseling psychology too. This helped me have an understanding of both computers and humans. Understanding both the program and the person that writes/uses/fixes it will help to have a wider viewpoint. I also had a chance to co-work with various people, including team projects, research projects, and school events. This gave me experience with working efficiently with other people to achieve a common goal.
+
+          I spent a lot of my free time in club activities, which were [acapella club](https://www.youtube.com/channel/UCG3D08O95Wc9cvRap5FKhSg) and judo club.
+
+
   - title: Publications
     layout: list
     content:
@@ -92,10 +116,11 @@ content:
         description: | # this will include new lines to allow paragraphs
             I had a chance to work on a research project as a memeber of ISEL. In ISEL, I learned the most basic skills for research, such as searching for a literature I need, reading it, and understanding it.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
+ 
+  - title: Writings
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      layout: left
         title: KAIST
         caption: 2021 fall - now
         sub_title: Master's Student
@@ -104,23 +129,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am a member of [ProsysLab](https://prosys.kaist.ac.kr/). With my advisor, prof. Heo, and my team here, I am doing interesting things that lies in the intersection of Program Analysis, Fuzzing and Automated Program Repair.
 
+  - title: Talks
+    layout: list # Type of content section (list/text)
+    content:
       - layout: left
-        title: Handong University
-        caption: 2014 - 2021
-        sub_title: BSc Computer Science
-        quote: >
-          Located in Pohang city, South Korea, Handong is a where I discovered the joy of learning.
+        title: STAAR Workshop Milestone Research Report
+        caption: 2022 Summer
+        sub_title: Efficient Directed Fuzzing via Dataflow Analysis
         description: | # this will include new lines to allow paragraphs
-          During my time at Handong I studied not only computer science but counseling psychology too. This helped me have an understanding of both computers and humans. Understanding both the program and the person that writes/uses/fixes it will help to have a wider viewpoint. I also had a chance to co-work with various people, including team projects, research projects, and school events. This gave me experience with working efficiently with other people to achieve a common goal.
-
-          I spent a lot of my free time in club activities, which were [acapella club](https://www.youtube.com/channel/UCG3D08O95Wc9cvRap5FKhSg) and judo club.
-
-  - title: Writings
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      I like writing my thoughts. I am archiving my writings in a [github repo](https://github.com/goodtaeeun/Writing).
-      They are mostly on academic topics, my thoughts on research and so on.
-      Please, pay a visit and leave some comments in the issue board if you also have some thoughts to share.
+          [Video](https://youtu.be/QNHu33H46sI) / [Slides](https://github.com/goodtaeeun/goodtaeeun.github.io/blob/main/assets/STAAR_Workshop_22-2.pdf) 
  
   - title: A Little More About Me
     layout: text
